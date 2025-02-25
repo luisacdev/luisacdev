@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Amador Campuzano from Spain
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning AlpineJS, TailwindCSS & Python
+- 🎯 I’m currently focus on VueJS 3 & React
 - 💞️ I’m looking to collaborate on JavaScript or Python projects
 - 📫 How to reach me luis.amacam@gmail.com
 
